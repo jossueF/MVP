@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MVP1</string>
+
+    <!-- activity_main-->
+    <string name="str_num1">Ingresa el número 1</string>
+    <string name="str_num2">Ingresa el número 2</string>
+    <string name="str_mul">*</string>
+    <string name="str_sum">+</string>
+    <string name="str_sub">-</string>
+    <string name="str_div">/</string>
+    <string name="str_title">Calculadora</string>
+
+</resources>
